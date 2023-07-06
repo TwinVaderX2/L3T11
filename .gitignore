@@ -1,0 +1,9 @@
+# don not include example directory / files
+Example/
+
+# exclude virtual environment
+spacy/
+
+# ignore unused files/folders
+L3T11/
+nlp.txt
